@@ -1,1 +1,1 @@
- {"84.200.229.44:27020": "[GER] Nymphix's Testserver"} 
+ {"84.200.229.44:27020": "Hope Community"} 
